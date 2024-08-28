@@ -5,7 +5,7 @@ Important notes:
   ...........................................................................
 
 Steps to run the project:
-1- Make sure to change database configuration in (application.properties) with what is applicable in your database properties.
+1- Make sure to change database configuration in (application.properties) with what is applicable with your database properties.
 
 2- Run the application on your IDE, then run the front-end interface (https://github.com/ZeyadDev-1/GearBox-Frontend.git).
 
