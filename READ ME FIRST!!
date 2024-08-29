@@ -1,0 +1,19 @@
+Important notes:
+
+
+- This back-end logic is integrated with front-end interface (https://github.com/ZeyadDev-1/GearBox-Frontend.git).
+  ...........................................................................
+
+Steps to run the project:
+1- Make sure to change database configuration in (application.properties) with what is applicable with your database properties.
+
+2- Run the application on your IDE, then run the front-end interface (https://github.com/ZeyadDev-1/GearBox-Frontend.git) while
+this application is running.
+
+3- In case you want to add a new product in the web application, do not leave any field empty!.
+
+4- When uploading pictures, only JPG/JPEG format is acceptable.
+
+
+
+Thank you.
